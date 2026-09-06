@@ -84,29 +84,29 @@ a
 
 Applying the inverse rotation gives
 
-$$
+```math
 t=(x-X)\cos\theta+(y-42)\sin\theta
-$$
+```
 
 and
 
-$$
+```math
 a=-(x-X)\sin\theta+(y-42)\cos\theta.
-$$
+```
 
 For the correct parameters, every supplied point must therefore satisfy
 
-$$
+```math
 -(x-X)\sin\theta+(y-42)\cos\theta
 =
-e^{M|t|}\sin(0.3t),
-$$
+e^{M|t|}\sin(0.3t)
+```
 
 where
 
-$$
+```math
 t=(x-X)\cos\theta+(y-42)\sin\theta.
-$$
+```
 
 This converts the original problem into a small **three-parameter numerical optimisation problem**.
 
