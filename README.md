@@ -66,15 +66,21 @@ $$
 
 This is a 2D rotation:
 
-$$
-\begin{bmatrix}x-X\\y-42\end{bmatrix}
+```math
+\begin{bmatrix}
+x-X\\
+y-42
+\end{bmatrix}
 =
 \begin{bmatrix}
 \cos\theta & -\sin\theta\\
 \sin\theta & \cos\theta
 \end{bmatrix}
-\begin{bmatrix}t\\a\end{bmatrix}.
-$$
+\begin{bmatrix}
+t\\
+a
+\end{bmatrix}
+```
 
 Applying the inverse rotation gives
 
