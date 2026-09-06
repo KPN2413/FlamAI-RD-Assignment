@@ -1,0 +1,4 @@
+\left(
+t\cos(0.5235983)-e^{0.03\left|t\right|}\sin(0.3t)\sin(0.5235983)+55,\;
+42+t\sin(0.5235983)+e^{0.03\left|t\right|}\sin(0.3t)\cos(0.5235983)
+\right)\left\{6<t<60\right\}

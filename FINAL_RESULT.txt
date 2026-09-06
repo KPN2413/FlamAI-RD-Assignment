@@ -1,0 +1,11 @@
+FlamAI R&D Assignment — Final Result
+
+theta = 0.5235983 radians
+theta ≈ 29.999972750225 degrees
+M = 0.03
+X = 55
+
+Validation on xy_data.csv:
+MAE residual = 2.724699414370e-06
+RMSE residual = 3.742511204099e-06
+Max |residual| = 1.641854418688e-05
